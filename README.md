@@ -1,1 +1,3 @@
-Downloading:  If you are not familiar with git and its commands, simply click the 'Code' button and choose 'Download ZIP'.  After downloading the .zip file to your computer, unzip its contents which include the arduino source file for this project.
+To download the Arduino source code for this project:  
+Right-click 'Tracking_VFO-VK3JST.ino' in the list and select 'Download'.  
+An alternative method is to left-click the file to display it on your screen, then click the 'Download' icon.
