@@ -1,10 +1,23 @@
 Notice: an alternative to the Arduino Nano may be needed for this project.
-Most Arduino Nano modules available these days use a ceramic resonator to clock the processor, instead of a crystal.
+Most Arduino Nano modules available these days use a ceramic resonator to clock the processor, instead of a quartz crystal.
 This causes too much drift in the tracking accuracy, although it does not affect frequency stability in 'hold' mode.
 My prototype Track-hold-VFO project used a Nano module with a 16MHz crystal instead of a ceramic resonator.
-Sorry about the oversight - I forgot to include that detail in the article.
+See Photo 1 from the file list. Sorry about the oversight - I forgot to include that detail in the AR article.
 I have only recently discovered that these crystal-equipped Nanos may no longer be available.
-I am currently searching for an alternative, and will update this readme with more details soon.
+
+Alternatives:
+
+1. A PCB is under development and should be available soon. This is a 'thru-hole' design, not requiring any SMT components.
+The design uses an Atmega 328P microprocessor, plus 16MHz crystal, in place of the Nano module. Programming is via a 6-pin
+header for an FTDI 'breakout' interface. There is space on the PCB for the AD9850 DDS module. All the smaller components
+for the complete Track-hold VFO fit on the PCB as well, apart from the status LEDs and control buttons. I will update this
+readme with further details once the PCB is finished and tested.
+
+3. If you have an old Arduino Uno module that is not needed for anything else, a minor modification allows it to be used
+in the original circuit in place of the Nano module. To modify the Uno, remove the 16MHz ceramic resonator clocking the
+Atmega 328P, then add a 100 ohm resistor on the underside of the board, to drive the Atmega 328P from the Uno's other,
+crystal-derived 16MHz clock, which drives the USB/serial interface. The resistor must be connected between the 'driven' end
+of the 16MHz crystal and the 'X1' pin (pin 9) on the Atmega 328P. See Photos 2 and 3 from the file list.
 
 To download the Arduino source code for this project:  
 Right-click 'Tracking-VFO-VK3JST.ino' in the file list and select 'Save Link As...' from the drop-down menu.  
