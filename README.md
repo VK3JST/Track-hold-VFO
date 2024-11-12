@@ -16,9 +16,7 @@ perfectly useable. More details will appear shortly, firstly in the upcoming (No
 here, as a further update to this readme file. Also, a V2 PCB will be available soon, with the faults amended, plus some
 other layour improvements. If you would like a V1 or a V2 PCB please send me an email: jim.sosnin@gmail.com.
 
-![Photo 4 - VFO with new PCB](https://github.com/user-attachments/assets/1a0b33d1-d805-404b-aa7a-765aaca0be0a)
-
-3. (Earlier, now obsolete)
+2. (Earlier, now obsolete)
 If you have an old Arduino Uno module that is not needed for anything else, a minor modification allows it to be used
 in the original circuit in place of the Nano module. To modify the Uno, remove the 16MHz ceramic resonator clocking the
 Atmega 328P, then add a 100 ohm resistor on the underside of the board, to drive the Atmega 328P from the Uno's other,
