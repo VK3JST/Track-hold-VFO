@@ -14,7 +14,7 @@ for the complete Track-hold VFO fit on the PCB as well, apart from the status LE
 revealed a couple of minor board faults in the initial run (V1), but these have easy workarounds and the V1 boards are
 perfectly useable. More details will appear shortly, firstly in the upcoming (Nov-Dec 2024) AR magazine, and then
 here, as a further update to this readme file. Also, a V2 PCB will be available soon, with the faults amended, plus some
-other layour improvements. If you would like a V1 or a V2 PCB please send me an email: jim.sosnin@gmail.com.
+other layout improvements. If you would like a V1 or a V2 PCB please send me an email: jim.sosnin@gmail.com.
 
 2. (Earlier, now obsolete)
 If you have an old Arduino Uno module that is not needed for anything else, a minor modification allows it to be used
