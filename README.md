@@ -1,3 +1,9 @@
+Update 20241228: The V2 PCB, designed by Phil VK2ILO, should be available by mid-January 2025.
+We have set a price of Au$10 plus postage for this V2 board.  In the meantime, a detailed description and assembly manual
+for the board is nearly finished. It will be available via download from this git repo soon.
+
+Earlier entries:
+
 Notice: an alternative to the Arduino Nano may be needed for this project.
 Most Arduino Nano modules available these days use a ceramic resonator to clock the processor, instead of a quartz crystal.
 This causes too much drift in the tracking accuracy, although it does not affect frequency stability in 'hold' mode.
