@@ -1,3 +1,5 @@
+Update 20250112: Phil VK2ILO has received the V2 PCBs from the manufacturer. He is doing a test build to make sure there are no remaining (or new) board errors.  A preliminary version of the PCB manual (PDF) can be downloaded from this repo. It is complete except for the photos of a finished PCB, with all components mounted.  The current photos included in it are of the V1 PCB.  Once Phil has finished his test build of the V2 PCB, the manual will be updated with the new photos, and the V2 PCBs will be available for distribution.
+
 Update 20241228: The V2 PCB, designed by Phil VK2ILO, should be available by mid-January 2025.
 We have set a price of Au$10 plus postage for this V2 board.  In the meantime, a detailed description and assembly manual
 for the board is nearly finished. It will be available via download from this git repo soon.
