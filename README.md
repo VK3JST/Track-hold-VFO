@@ -1,3 +1,5 @@
+Update 20250222: The V2 PCBs are now available for distribution. I have posted a few out already, in response to some advance orders, but I forgot to announce the availability in this github repo.  My apologies (again) for my unreliable memory. If you would like a V2 PCB (or even a V1, if you want to save some money), please send me an email: jim.sosnin@gmail.com. 
+
 Update 20250112: Phil VK2ILO has received the V2 PCBs from the manufacturer. He is doing a test build to make sure everything works.  A preliminary version of the PCB manual (PDF) can be downloaded from this repo. It is complete except for the photos of a finished (all components mounted) V2 PCB.  The current photos included in it are of the V1 PCB.  Once Phil has finished his V2 test build, the manual will be updated with the new photos, and the V2 PCBs will be available for distribution.
 
 Update 20241228: The V2 PCB, designed by Phil VK2ILO, should be available by mid-January 2025.
